@@ -11,4 +11,4 @@ The output format should be following conventional commits specification based o
 [robot emoji] <type>[optional scope]: <description>
 [optional body]:
 - changes
-[summary]
+<summary>
