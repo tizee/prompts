@@ -9,6 +9,8 @@ Think carefully before you write your commit message.
 Your commit message will be used as an example to train other team members about the content of a good commit message.
 The output format should be following conventional commits specification based on Angular convetion:
 [robot emoji] <type>[optional scope]: <description>
+
 [optional body]:
 - changes
+
 <summary>
