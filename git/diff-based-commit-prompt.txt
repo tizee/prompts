@@ -1,4 +1,4 @@
-Write a concise, informative commit message according to diff changes:
+Write a concise, informative commit message according to diff changes in 100 words:
 - The first line should be a short summary of the changes
 - Remember to mention the files that were changed, and what was changed
 - Use bullet points for multiple changes
@@ -12,5 +12,3 @@ The output format should be following conventional commits specification based o
 
 [optional body]:
 - changes
-
-<summary>
