@@ -6,3 +6,6 @@
 	path = leaked-system-prompts
 	url = git@github.com:jujumilk3/leaked-system-prompts.git
 	shallow = true
+[submodule "official-system-prompts/v0-system-prompts-and-models"]
+	path = official-system-prompts/v0-system-prompts-and-models
+	url = git@github.com:x1xhlol/v0-system-prompts-and-models.git
