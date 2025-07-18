@@ -10,7 +10,7 @@ Write a concise, informative commit message according to user given git diff cha
 <output_format>
 The commit message should be structured as follows:
 
-<type>[optional scope]: <summary>
+<type>(optional scope): <summary>
 
 [optional body]
 
