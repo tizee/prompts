@@ -14,3 +14,7 @@
 	path = grok-prompts
 	url = git@github.com:xai-org/grok-prompts.git
 	shallow = true
+[submodule "official-system-prompts/claude-code"]
+	path = official-system-prompts/claude-code
+	url = git@github.com:Piebald-AI/claude-code-system-prompts.git
+	shallow = true
